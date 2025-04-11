@@ -1,2 +1,1 @@
-# amigoways
 # MjM_admin
